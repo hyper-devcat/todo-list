@@ -1,5 +1,4 @@
-"# todo-list" 
-# vue-weather
+# todo-list
 
 ## Project setup
 ```
